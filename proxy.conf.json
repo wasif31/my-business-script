@@ -1,0 +1,8 @@
+
+{
+   "/api/*": {
+      "target": "https://www.eorange.shop/json/suggest?search=r15+v3",
+      "secure": false,
+      "logLevel": "debug"
+   }
+}
